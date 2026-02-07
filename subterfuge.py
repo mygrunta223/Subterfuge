@@ -5,6 +5,8 @@ Subterfuge - The Ultimate Hacker Simulator
 Make it look like you're doing something incredibly important!
 """
 
+__version__ = "3.0.0"
+
 import random
 import time
 import sys
